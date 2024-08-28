@@ -123,6 +123,7 @@ DOI: 10.1002/rcm.9088
 
 ## Contact
 
+- [marina.strobl@fh-hagenberg.at](mailto:marina.strobl@fh-hagenberg.at)
 - [micha.birklbauer@fh-hagenberg.at](mailto:micha.birklbauer@fh-hagenberg.at)
 - [louise.buur@fh-hagenberg.at](mailto:louise.buur@fh-hagenberg.at)
 - [viktoria.dorfer@fh-hagenberg.at](mailto:viktoria.dorfer@fh-hagenberg.at)
