@@ -46,3 +46,15 @@ To install MS Amanda 3.0 please perform the following steps:
   - Latest MS Amanda Standalone [version](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/sa/latest/version.txt) for Windows: [**download**](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/sa/latest/win/latest.zip)
   - Latest MS Amanda Standalone [version](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/sa/latest/version.txt) for Linux: [**download**](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/sa/latest/linux/latest.tar.gz)
   - Latest MS Amanda Standalone [version](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/sa/latest/version.txt) for macOS: [**download**](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/sa/latest/mac/latest.tar.gz)
+
+### Installation on Windows
+
+- Right click on the downloaded `.zip` file and select the menu item `Properties` in the context menu.
+- If visible, click `Unblock` at the bottom right of the `Properties` window.
+- Click `OK` to close the `Properties` window.
+- Extract the downloaded `.zip` file.
+- Open a commandline and navigate to the extracted MS Amanda folder.
+- Run MS Amanda by calling:
+  ```bash
+  MSAmanda.exe -s spectrumFile -d proteinDatabase -e settings.xml [-f fileformat] [-o outputfilename]
+  ```
