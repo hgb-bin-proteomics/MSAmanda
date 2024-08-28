@@ -78,3 +78,51 @@ To install MS Amanda 3.0 please perform the following steps:
   ```bash
   ./MSAmanda -s spectrumFile -d proteinDatabase -e settings.xml [-f fileformat] [-o outputfilename]
   ```
+
+MS Amanda 3.0 Standalone is now ready for use!.
+
+In addition, MS Amanda Standalone is also integrated in
+[SearchGUI](http://compomics.github.io/projects/searchgui.html)
+and
+[PeptideShaker](http://compomics.github.io/projects/peptide-shaker.html)
+!
+
+## Getting Help
+
+In case something isn't working or if you need any help with MS Amanda,
+please don't hesitate to reach out to us! Please check out the
+[MS Amanda Google Group](https://groups.google.com/d/forum/msamanda)!
+Alternatively, you can open
+up an issue [here](https://github.com/hgb-bin-proteomics/MSAmanda/issues) or
+start a discussion
+[there](https://github.com/hgb-bin-proteomics/MSAmanda/discussions).
+We are usually fast to respond on GitHub and other users might be able to help
+too! Alternatively, you can always drop us an email at the addresses
+[below](#contact).
+
+## Known Issues
+
+[List of known issues](https://github.com/hgb-bin-proteomics/MSAmanda/issues)
+
+## Citing
+
+If you are using MS Amanda please cite:
+```
+MS Amanda, a Universal Identification Algorithm Optimized for High Accuracy Tandem Mass Spectra
+Viktoria Dorfer, Peter Pichler, Thomas Stranzl, Johannes Stadlmann, Thomas Taus, Stephan Winkler, and Karl Mechtler
+Journal of Proteome Research 2014 13 (8), 3679-3684
+DOI: 10.1021/pr500202e
+```
+and/or
+```
+MS Amanda 2.0: Advancements in the standalone implementation
+Viktoria Dorfer, Marina Strobl, Stephan Winkler, and Karl Mechtler
+Rapid Communications in Mass Spectrometry 2021 35 (e9088)
+DOI: 10.1002/rcm.9088
+```
+
+## Contact
+
+- [micha.birklbauer@fh-hagenberg.at](mailto:micha.birklbauer@fh-hagenberg.at)
+- [louise.buur@fh-hagenberg.at](mailto:louise.buur@fh-hagenberg.at)
+- [viktoria.dorfer@fh-hagenberg.at](mailto:viktoria.dorfer@fh-hagenberg.at)
