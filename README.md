@@ -1,6 +1,6 @@
 # MS Amanda
 
-<img src="logo/msamanda.png" align="left" width="175px"/>
+<img src="logo/msamanda.jpg" align="left" width="175px"/>
 
 MS Amanda is a scoring system to identify peptides out of tandem mass spectrometry data using a database of known proteins. The MS Amanda algorithm
 is especially designed for high resolution and high accuracy tandem mass spectra. One advantage of MS Amanda is the high speed of spectrum
