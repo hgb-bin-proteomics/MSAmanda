@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Dorfer"
+    given-names: "Viktoria"
+    orcid: "https://orcid.org/0000-0002-5332-5701"
+  - family-names: "Pichler"
+    given-names: "Peter"
+  - family-names: "Stranzl"
+    given-names: "Thomas"
+  - family-names: "Stadlmann"
+    given-names: "Johannes"
+  - family-names: "Taus"
+    given-names: "Thomas"
+  - family-names: "Winkler"
+    given-names: "Stephan"
+  - family-names: "Mechtler"
+    given-names: "Karl"
+    orcid: "https://orcid.org/0000-0002-3392-9946"
+  doi: "10.1021/pr500202e"
+  journal: "Journal of Proteome Research"
+  month: 6
+  start: 3679
+  end: 3684
+  title: "MS Amanda, a Universal Identification Algorithm Optimized for High Accuracy Tandem Mass Spectra"
+  issue: 8
+  volume: 13
+  year: 2014
