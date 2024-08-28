@@ -69,3 +69,12 @@ To install MS Amanda 3.0 please perform the following steps:
   ./MSAmanda -s spectrumFile -d proteinDatabase -e settings.xml [-f fileformat] [-o outputfilename]
   ```
 
+### Installation on macOS
+
+- The new version of MS Amanda no longer requires `mono`.
+- Extract the MS Amanda archive and navigate to the extracted folder in a terminal.
+- MS Amanda for Mac can be used the same way as on windows platforms.
+- To run MS Amanda please call:
+  ```bash
+  ./MSAmanda -s spectrumFile -d proteinDatabase -e settings.xml [-f fileformat] [-o outputfilename]
+  ```
