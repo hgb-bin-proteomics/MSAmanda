@@ -22,13 +22,13 @@ To install MS Amanda, please perform the following steps:
 
 - Close Proteome Discoverer
 - Download the latest MS Amanda installer:
-  - Latest MS Amanda 3.0 [version](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/pd/PD3.1/latest/version.txt) for Proteome Discoverer 3.1: [download](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/pd/PD3.1/latest/latest.zip)
-  - Latest MS Amanda 2.0 [version](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/pd/PD3.0/latest/version.txt) for Proteome Discoverer 3.0: [download](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/pd/PD3.0/latest/latest.zip)
-  - Latest MS Amanda 2.0 [version](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/pd/PD2.5/latest/version.txt) for Proteome Discoverer 2.5: [download](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/pd/PD2.5/latest/latest.zip)
-  - Latest MS Amanda 2.0 [version](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/pd/PD2.4/latest/version.txt) for Proteome Discoverer 2.4: [download](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/pd/PD2.4/latest/latest.zip)
-  - Latest MS Amanda 2.0 [version](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/pd/PD2.3/latest/version.txt) for Proteome Discoverer 2.3: [download](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/pd/PD2.3/latest/latest.zip)
-  - Latest MS Amanda 2.0 [version](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/pd/PD2.2/latest/version.txt) for Proteome Discoverer 2.2: [download](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/pd/PD2.2/latest/latest.zip)
-  - Latest MS Amanda 2.0 [version](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/pd/PD2.1/latest/version.txt) for Proteome Discoverer 2.1: [download](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/pd/PD2.1/latest/latest.zip)
+  - Latest MS Amanda 3.0 [version](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/pd/PD3.1/latest/version.txt) for Proteome Discoverer 3.1: [**download**](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/pd/PD3.1/latest/latest.zip)
+  - Latest MS Amanda 2.0 [version](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/pd/PD3.0/latest/version.txt) for Proteome Discoverer 3.0: [**download**](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/pd/PD3.0/latest/latest.zip)
+  - Latest MS Amanda 2.0 [version](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/pd/PD2.5/latest/version.txt) for Proteome Discoverer 2.5: [**download**](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/pd/PD2.5/latest/latest.zip)
+  - Latest MS Amanda 2.0 [version](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/pd/PD2.4/latest/version.txt) for Proteome Discoverer 2.4: [**download**](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/pd/PD2.4/latest/latest.zip)
+  - Latest MS Amanda 2.0 [version](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/pd/PD2.3/latest/version.txt) for Proteome Discoverer 2.3: [**download**](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/pd/PD2.3/latest/latest.zip)
+  - Latest MS Amanda 2.0 [version](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/pd/PD2.2/latest/version.txt) for Proteome Discoverer 2.2: [**download**](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/pd/PD2.2/latest/latest.zip)
+  - Latest MS Amanda 2.0 [version](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/pd/PD2.1/latest/version.txt) for Proteome Discoverer 2.1: [**download**](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/pd/PD2.1/latest/latest.zip)
 - Follow the installation instructions and carefully read the license agreement
 - Restart Proteome Discoverer
 
