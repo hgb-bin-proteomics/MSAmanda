@@ -33,3 +33,16 @@ To install MS Amanda, please perform the following steps:
 - Restart Proteome Discoverer
 
 MS Amanda 2.0/3.0 should now be successfully installed on your computer!
+
+## Installation of MS Amanda 3.0 Standalone
+
+MS Amanda 3.0 Standalone can be used from the command line or called from any already established proteomics pipelines.
+
+To install MS Amanda 3.0 please perform the following steps:
+
+- Carefully read the [license agreement](https://github.com/hgb-bin-proteomics/MSAmanda/blob/master/LICENSE) and proceed only if you agree to the terms and conditions.
+- **Attention:** Please delete all subfolders in the `MSAmanda3.0` folder. For Mac and Linux users this folder is usually created in your home directory, for Windows users it should be created in `C:\ProgramData`, which is a hidden folder (see [How to view hidden files](https://support.microsoft.com/en-us/windows/view-hidden-files-and-folders-in-windows-97fbc472-c603-9d90-91d0-1166d1d9f4b5)).
+- Please download the latest version for Windows, Linux, and Mac here:
+  - Latest MS Amanda Standalone [version](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/sa/latest/version.txt) for Windows: [**download**](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/sa/latest/win/latest.zip)
+  - Latest MS Amanda Standalone [version](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/sa/latest/version.txt) for Linux: [**download**](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/sa/latest/linux/latest.tar.gz)
+  - Latest MS Amanda Standalone [version](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/sa/latest/version.txt) for macOS: [**download**](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/sa/latest/mac/latest.tar.gz)
