@@ -9,10 +9,10 @@ speed of spectrum identification, especially since MS Amanda 2.0. In addition, M
 identified spectra with gold-standard algorithms Mascot and SEQUEST.
 
 To cite MS Amanda and for more detailed information on the algorithm please refer to
-[Dorfer et al. J Proteome Res. 2014, 13(8)](https://doi.org/10.1021/pr500202e)
-and
+[Dorfer et al. J Proteome Res. 2014, 13(8)](https://doi.org/10.1021/pr500202e),
 [Dorfer et al. Rapid Commun Mass Spectrom. 2021, 35(11)](https://doi.org/10.1002/rcm.9088)
-.
+and 
+[Buur et al. J Proteome Res. 2024, 23(8)](https://doi.org/10.1021/acs.jproteome.3c00785).
 
 ## Installation of MS Amanda for Proteome Discoverer
 
@@ -119,6 +119,13 @@ MS Amanda 2.0: Advancements in the standalone implementation
 Viktoria Dorfer, Marina Strobl, Stephan Winkler, and Karl Mechtler
 Rapid Communications in Mass Spectrometry 2021 35 (e9088)
 DOI: 10.1002/rcm.9088
+```
+and/or
+```
+MS2Rescore 3.0 Is a Modular, Flexible, and User-Friendly Platform to Boost Peptide Identifications, as Showcased with MS Amanda 3.0
+Louise M. Buur, Arthur Declercq, Marina Strobl, Robbin Bouwmeester, Sven Degroeve, Lennart Martens, Viktoria Dorfer, and Ralf Gabriels
+Journal of Proteome Research 2024 23 (8), 3200-3207
+DOI: 10.1021/acs.jproteome.3c00785
 ```
 
 ## Contact
