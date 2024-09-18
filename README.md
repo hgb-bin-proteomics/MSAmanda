@@ -11,7 +11,7 @@ identified spectra with gold-standard algorithms Mascot and SEQUEST.
 To cite MS Amanda and for more detailed information on the algorithm please refer to
 [Dorfer et al. J Proteome Res. 2014, 13(8)](https://doi.org/10.1021/pr500202e),
 [Dorfer et al. Rapid Commun Mass Spectrom. 2021, 35(11)](https://doi.org/10.1002/rcm.9088)
-and 
+and
 [Buur et al. J Proteome Res. 2024, 23(8)](https://doi.org/10.1021/acs.jproteome.3c00785).
 
 ## Installation of MS Amanda for Proteome Discoverer
@@ -34,6 +34,8 @@ To install MS Amanda, please perform the following steps:
 
 MS Amanda 2.0/3.0 should now be successfully installed on your computer!
 
+*Older MS Amanda versions for Proteome Discoverer can be found [here](https://github.com/hgb-bin-proteomics/MSAmanda/tree/master/release/pd).*
+
 ## Installation of MS Amanda 3.0 Standalone
 
 MS Amanda 3.0 Standalone can be used from the command line or called from any already established proteomics pipelines.
@@ -46,6 +48,8 @@ To install MS Amanda 3.0 please perform the following steps:
   - Latest MS Amanda Standalone [version](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/sa/latest/version.txt) for Windows: [**download**](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/sa/latest/win/latest.zip)
   - Latest MS Amanda Standalone [version](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/sa/latest/version.txt) for Linux: [**download**](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/sa/latest/linux/latest.tar.gz)
   - Latest MS Amanda Standalone [version](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/sa/latest/version.txt) for macOS: [**download**](https://github.com/hgb-bin-proteomics/MSAmanda/raw/master/release/sa/latest/mac/latest.tar.gz)
+
+*Older MS Amanda versions can be found [here](https://github.com/hgb-bin-proteomics/MSAmanda/tree/master/release/sa).*
 
 ### Installation on Windows
 
