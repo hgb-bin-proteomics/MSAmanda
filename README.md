@@ -134,6 +134,7 @@ DOI: 10.1021/acs.jproteome.3c00785
 
 ## Contact
 
+- \[preferred\] [proteomics@fh-hagenberg.at](mailto:proteomics@fh-hagenberg.at)
 - [marina.strobl@fh-hagenberg.at](mailto:marina.strobl@fh-hagenberg.at)
 - [micha.birklbauer@fh-hagenberg.at](mailto:micha.birklbauer@fh-hagenberg.at)
 - [louise.buur@fh-hagenberg.at](mailto:louise.buur@fh-hagenberg.at)
