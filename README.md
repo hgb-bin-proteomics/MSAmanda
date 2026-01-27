@@ -18,7 +18,12 @@ and
 
 The Proteome Discoverer Node of MS Amanda can be used with
 [Thermo Scientific's Proteome Discoverer](https://www.thermofisher.com/at/en/home/industrial/mass-spectrometry/liquid-chromatography-mass-spectrometry-lc-ms/lc-ms-software/multi-omics-data-analysis/proteome-discoverer-software.html).
-To install MS Amanda, please perform the following steps:
+
+> [!TIP]
+>
+> You can install MS Amanda with the official [Thermo Proteome Discoverer ThirdParty Setup](https://www.thermofisher.com/at/en/home/industrial/mass-spectrometry/liquid-chromatography-mass-spectrometry-lc-ms/lc-ms-software/multi-omics-data-analysis/proteome-discoverer-software.html).
+
+To install MS Amanda manually, please perform the following steps:
 
 - Close Proteome Discoverer
 - Download the latest MS Amanda installer:
